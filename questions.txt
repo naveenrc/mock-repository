@@ -1,0 +1,10 @@
+1. Sum of elements in a list
+   Initialize a list with the values-3, -2, -1, 1, 2, 3
+   Calculate the sum
+   
+2. Write a lambda function to square a number
+   Example: Given 2, return 4
+   
+3. Given a list of numbers, find the two largest numbers whose sum is less than an integer d
+   List is 20, 50, 40, 25, 30, 10
+   Integer d is 65
